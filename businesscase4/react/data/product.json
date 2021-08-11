@@ -1,0 +1,37 @@
+{
+    "product": [
+      {
+        "id": 1,
+        "name": "samsung",
+        "description": "Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage)",
+        "price":"₹47,999.00",
+        "available":6,
+        "imgage":"samsung.jpg"
+      },
+      {
+        "id": 2,
+        "name": "iphone",
+        "description": "Apple iPhone 11 Pro (64GB) - Silver",
+        "price":"₹89,899.00",
+        "available":3
+       
+      },
+      {
+        "id": 3,
+        "name": "redmi",
+        "description": "Mi 11X Pro 5G (Cosmic Black, 8GB RAM, 128GB Storage) | Snapdragon 888 | 108MP Camera",
+        "price":"₹39,999.00",
+        "available":4
+       
+      },
+      {
+        "id": 4,
+        "name": "realme",
+        "description": "Realme 7 Pro (128GB ROM, 8GB RAM, RMX2170, Mirror Blue)",
+        "price":"₹21,999.00",
+        "available":5
+       
+      }
+      
+    ]
+  }
